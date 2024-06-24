@@ -2,7 +2,7 @@ import Todo from "./components/Todo";
 
 const App = () => {
   return (
-    <div className="bg-stone-900 mt-10 p-10 ">
+    <div className="p-10 mt-10 bg-stone-900 h-svh">
       <Todo />
     </div>
   );
